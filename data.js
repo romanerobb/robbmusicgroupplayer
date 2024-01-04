@@ -1,8 +1,8 @@
 let songs = [
     {
-        name: 'song 1',
+        name: 'The Truth Lies Within',
         path: 'assets/musics/Song 1.mp3',
-        artist: 'artist 1',
+        artist: 'Killer Mike',
         cover: 'assets/images/cover 1.png'
     },
     {
